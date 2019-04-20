@@ -1,9 +1,9 @@
 Title: Chernorizets
 Date: 2018-04-20 12:00
 Tags: History
-Author: Chernorizets Hrabur
 Slug: simeon
-Summary: Tsar Simeon
+Category: Main
+
 # Simeon I the Great
 ### Симеон I Велики
 

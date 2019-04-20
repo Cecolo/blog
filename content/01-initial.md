@@ -1,9 +1,8 @@
 Title: Chernorizets Hrabar
 Date: 2018-04-19 00:01
 Tags: History
-Author: Hrabur
 Slug: hrabur
-Summary: Chernorizets Hrabur
+Category: Main
 
 Chernorizets Hrabar (Church Slavonic: Чрьнори́зьць Хра́бръ, Črĭnorizĭcĭ Hrabrŭ, Bulgarian: Черноризец Храбър)[note 1] was a Bulgarian[1] monk, scholar and writer who worked at the Preslav Literary School at the end of the 9th and the beginning of the 10th century.[2]
 
