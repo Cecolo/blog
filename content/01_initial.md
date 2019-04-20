@@ -1,22 +1,11 @@
-Title: Chernorizets
+Title: Chernorizets Hrabar
 Date: 2018-04-19 00:01
-Tags: Monk
+Tags: history
 Author: Hrabur
+Slug: hrabur
 Summary: Chernorizets Hrabur
 
 Chernorizets Hrabar (Church Slavonic: Чрьнори́зьць Хра́бръ, Črĭnorizĭcĭ Hrabrŭ, Bulgarian: Черноризец Храбър)[note 1] was a Bulgarian[1] monk, scholar and writer who worked at the Preslav Literary School at the end of the 9th and the beginning of the 10th century.[2]
-Contents
-
-    1 Name
-    2 On the Letters
-        2.1 Textual criticism
-        2.2 Excerpt
-    3 Legacy
-    4 See also
-    5 Footnotes
-    6 Notes
-
-Name
 
 His appellation is correctly translated as "Hrabar, the Black Robe Wearer" (i.e., Hrabar The Monk), chernorizets being the lowest rank in the monastic hierarchy (translatable as black robe wearer, see wikt:Reconstruction:Proto-Slavic/čьrnъ and wikt:riza), "Hrabar" ("Hrabr") supposed to be his given name. However, sometimes he is referred to as "Chernorizets the Brave", "Brave" being the translation of "Hrabar" assumed to be a nickname.
 
