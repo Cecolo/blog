@@ -1,6 +1,6 @@
 Title: Chernorizets
 Date: 2018-04-20 12:00
-Tags: king
+Tags: History
 Author: Chernorizets Hrabur
 Slug: simeon
 Summary: Tsar Simeon

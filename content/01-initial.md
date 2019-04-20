@@ -1,6 +1,6 @@
 Title: Chernorizets Hrabar
 Date: 2018-04-19 00:01
-Tags: history
+Tags: History
 Author: Hrabur
 Slug: hrabur
 Summary: Chernorizets Hrabur
