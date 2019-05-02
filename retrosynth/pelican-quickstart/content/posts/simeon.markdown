@@ -1,0 +1,17 @@
+Title: Simeon I
+Slug: simeon
+Category: kings
+Date: 2019-05-01
+Modified: 2019-05-01
+Tags: writers
+Summary: [Simeon I](https://en.wikipedia.org/wiki/Simeon_I_of_Bulgaria) the Great ruled over Bulgaria from 893 to 927.
+
+Simeon (also Symeon) I the Great (Bulgarian: Симеон I Велики, transliterated Simeon I Veliki [simɛˈɔn ˈpɤ̞rvi vɛˈliki]) ruled over Bulgaria from 893 to 927, during the First Bulgarian Empire. Simeon's successful campaigns against the Byzantines, Magyars and Serbs led Bulgaria to its greatest territorial expansion ever, making it the most powerful state in contemporary Eastern Europe. His reign was also a period of unmatched cultural prosperity and enlightenment later deemed the Golden Age of Bulgarian culture.
+
+During Simeon's rule, Bulgaria spread over a territory between the Aegean, the Adriatic and the Black Sea. The newly independent Bulgarian Orthodox Church became the first new patriarchate besides the Pentarchy, and Bulgarian Glagolitic and Cyrillic translations of Christian texts spread all over the Slavic world of the time. It was at the Preslav Literary School in the 890s that the Cyrillic alphabet was developed. Halfway through his reign, Simeon assumed the title of Emperor (Tsar), having prior to that been styled Prince (Knyaz).
+
+[Museum of History](https://historymuseum.org/en/)
+[Gutenberg](http://www.gutenberg.org/ebooks/894?msg=welcome_stranger), 
+[Bulgarian Empire](http://www.promacedonia.org/en/sr/sr_3_1.htm) 
+and 
+[Angel Nikolov](https://www.academia.edu/924341/Nikolov_A._The_Perception_of_the_Bulgarian_Past_in_the_Court_of_Preslav_around_900_AD._-_In_State_and_Church_Studies_in_Medieval_Bulgaria_and_Byzantium._Ed._by_V._Gjuzelev_and_K._Petkov._American_Research_Center_in_Sofia_Sofia_2011_157-171) 
